@@ -9,7 +9,9 @@ The non restoring algorithm chenges the alphabet (S = {-1,1}) so is possible to 
 The main difference between the two is that the Restoring has a random delay (in terms of clock cycles), instead the non-restoring has a fixed delay.
 
 Restoring algorithm:
+
 ![Restoring](flowchart/Restoring_flowchart.png)
 
 Non restoring algorithm:
+
 ![Non-restoring](flowchart/Non_restoring_flowchart.png)
